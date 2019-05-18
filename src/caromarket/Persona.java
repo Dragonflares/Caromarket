@@ -57,7 +57,8 @@ public class Persona {
 		compras.remove(compra);
 	}
 	
-	public void enviarCompra(Compra compra) {
+	public void recibirCompra(Compra compra) {
 		
 	}
+	
 }
